@@ -1,0 +1,10 @@
+[
+  {
+    "strName": "StackSizeMod",
+    "strAuthor": "SeriousBee#5448 on Discord",
+    "strModURL": "N/A",
+    "strGameVersion": "0.8.0.0",
+    "strModVersion": "0.1",
+    "strNotes": "This mod changes the default size of item stacks, changes the interior dimensions of the case and the fridge, and add the ability to stack loose wall tiles. Conduit (Loose) stack size is changed from 5 to 50, Crate and Crate (Locked) interior dimensions are changed from 3x3 to 6x6, same with Fridge. Hull Patch stack size is changed from 5 to 20, Small Electronic Parts stack size is changed from 10 to 50, Small Mechanical Parts stack size is changed from 20 to 50, Scrap Aluminum stack size is changed from 15 to 100, Scrap Carbon Fiber stack size is changed from 35 to 100, Scrap Steel stack size is changed from 15 to 100, and ItmWall1x1Loose stacking is added, 10 items per stack. This mod only changes some values in condowners.json and adds a line in the same file to the entry for the Wall (loose) item. "
+  }
+]
